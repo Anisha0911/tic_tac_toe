@@ -194,6 +194,7 @@ function Tic_tac() {
   return (
     <div>
       <div className='container'>
+        <h1>Tic Tac Toe - GAME</h1>
         <div className='row inner_box'>
           <div onClick={() => {
             box1()
