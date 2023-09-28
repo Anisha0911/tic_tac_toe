@@ -1,0 +1,31 @@
+.inner_box{
+    background-color: rgb(79, 129, 113);
+    margin: 5rem auto;
+    padding: 2rem;
+}
+/* .box{
+    height: 150px;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(208, 216, 186);
+    padding-top: 50px;
+    border: 2px solid #b26a6a;
+} */
+
+.box{
+  height: 12rem;
+    font-size: 100px;
+    color: red;
+    display: flex;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(208, 216, 186);
+    border: 2px solid #b26a6a;
+}
+@media screen and (min-width: 575px) {
+  col-sm-4{
+    width: 25%;
+  }
+}
+
