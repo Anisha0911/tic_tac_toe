@@ -225,7 +225,7 @@ function Tic_tac() {
           }} className='col-sm-4 box'>{bval9}</div>
         </div>
       </div>
-
+<footer class="copyright">Copyright @2023 | Made with &#10084; By TechAni</footer>
     </div>
   )
 
