@@ -23,6 +23,13 @@
     background-color: rgb(208, 216, 186);
     border: 2px solid #b26a6a;
 }
+.copyright {
+    font-weight: 700;
+    font-size: 20px;
+    padding-bottom: 4rem;
+}
+
+
 @media screen and (min-width: 575px) {
   col-sm-4{
     width: 25%;
